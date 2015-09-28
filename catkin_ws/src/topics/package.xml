@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>topics</name>
+  <version>0.1.0</version>
+  <description>
+    Example package demonstrating basic ROS nodes, ROS topics, and the ROS
+    publisher-subscriber model.
+  </description>
+
+  <maintainer email="mr@anassinator.com">Anass Al</maintainer>
+  <license>MIT</license>
+
+  <author email="mr@anassinator.com">Anass Al</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
