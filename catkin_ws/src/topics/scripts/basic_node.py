@@ -12,8 +12,8 @@ import rospy
 
 
 if __name__ == "__main__":
-    # Initialize node.
+    # Initialize node
     rospy.init_node("basic_node")
 
-    # Run until stopped.
+    # Run until stopped
     rospy.spin()
