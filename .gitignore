@@ -1,6 +1,9 @@
 # ROS
 catkin_ws/build
 catkin_ws/devel
+catkin_ws/logs
+catkin_ws/install
+catkin_ws/.catkin_tools
 
 # Python
 *.py[cod]

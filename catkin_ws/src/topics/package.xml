@@ -1,16 +1,19 @@
 <?xml version="1.0"?>
-<package>
+<package format="2">
   <name>topics</name>
   <version>0.1.0</version>
   <description>
-    Example package demonstrating basic ROS nodes, ROS topics, and the ROS
+    Sample package demonstrating basic ROS nodes, ROS topics, and the ROS
     publisher-subscriber model.
   </description>
 
-  <maintainer email="mr@anassinator.com">Anass Al</maintainer>
+  <maintainer email="dev@anassinator.com">Anass Al</maintainer>
   <license>MIT</license>
 
-  <author email="mr@anassinator.com">Anass Al</author>
+  <author email="dev@anassinator.com">Anass Al</author>
 
   <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
 </package>
